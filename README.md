@@ -1,9 +1,9 @@
 ## Hi there 👋
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=BusinessMarketingWithNika)
+
 <!--
 **BusinessMarketingWithNika/BusinessMarketingWithNika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Profile view counter on GitHub] (https://komarev.com/ghpvc/?username=BusinessMarketingWithNika)
 
 Here are some ideas to get you started:
 
