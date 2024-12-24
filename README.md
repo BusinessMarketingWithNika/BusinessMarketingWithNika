@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 ## Stats 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=businessmarketingwithnika&show=_icons=true&theme=radical&reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/BusinessMarketingWithNika/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=businessmarketingwithnika&show=_icons=true&theme=radical,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/BusinessMarketingWithNika/github-readme-stats)
