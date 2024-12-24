@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 -->
 ## Stats 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=businessmarketingwithnika&show=_icons=true&theme=react)](https://github.com/BusinessMarketingWithNika/github-readme-stats)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=<businessmarketingwithnika>&theme=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=businessmarketingwithnika&show_icons=true&theme=react)
